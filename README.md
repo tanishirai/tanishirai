@@ -13,7 +13,7 @@ I’m a second-year BTech student with a strong interest in web design, data ana
 - 🌱 I’m currently expanding my skills in data analytics and web development.
 - 💬 Ask me about **Web Development** and **Open Source Contribution**.
 - 🤝 I’m open to collaboration on projects that create real-world solutions.
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/tanishi-rai-38974b282)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tanishi-rai-38974b282)
 - ⚡ Fun fact: I enjoy solving puzzles and experimenting with new coding challenges.
 
 ---
