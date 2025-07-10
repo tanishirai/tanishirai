@@ -4,7 +4,7 @@
 
 # 💻 A Passionate Developer from India
 
-I’m a second-year BTech student with a strong interest in web design, data analytics, and coding. I’m honing my skills in C++, Python, and Java while exploring ways to apply these technologies. Passionate about creating user-friendly web solutions, deriving insights from data, and actively contributing to open-source projects, I thrive in problem-solving and collaboration. 
+I’m a pre-final year BTech student with a strong interest in web design, data analytics, and coding. I’m honing my skills in Power BI, Excel, SQL, C++, Python, and Java while exploring ways to apply these technologies. Passionate about creating user-friendly web solutions, deriving insights from data, and actively contributing to open-source projects, I thrive in problem-solving and collaboration. 
 
 ---
 
