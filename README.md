@@ -18,33 +18,21 @@ I’m a pre-final year BTech student with a strong interest in web design, data 
 
 ---
 
+
 # 📊 GitHub Stats
 
 <div align="center">
-  
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=tanishirai&show_icons=true&count_private=true&theme=radical" alt="Tanishi Rai's GitHub Stats" height="180em" />
-  
-  <!-- Top Languages by Repo -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanishirai&theme=radical" alt="Top Languages by Repo" height="180em" />
-  
-  <!-- Top Languages by Commit -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanishirai&theme=radical" alt="Top Languages by Commit" height="180em" />
-  
-  <!-- Commit Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanishirai&theme=radical" alt="GitHub Commit Stats" height="180em" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanishirai&theme=radical" height="180em" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanishirai&theme=radical" height="180em" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanishirai&theme=radical" height="180em" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanishirai&theme=radical" />
 
 </div>
 
----
-
-# 🏆 Trophies
-
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=tanishirai&theme=radical&no-frame=true&column=4" alt="Tanishi Rai's GitHub Trophies" />
-
-</div>
 
 ---
 
